@@ -1,6 +1,0 @@
-in\amazon\steps\StepDefinition.class
-in\amazon\browserfactory\Browser.class
-in\amazon\steps\ServiceHooks.class
-in\amazon\browserfactory\WebBrowsers.class
-in\amazon\common\TestBase.class
-in\amazon\testrunner\TestRunner.class
